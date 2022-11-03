@@ -16,7 +16,7 @@ Available languages: https://docs.microsoft.com/en-us/windows-hardware/manufactu
 New PowerShell cmdlets: https://docs.microsoft.com/nl-nl/powershell/module/languagepackmanagement/?view=windowsserver2022-ps
 
 .LINK
-https://github.com/StefanDingemanse/NMW/edit/main/scripted-actions/windows-script/Install%20languages.ps1
+https://github.com/sandem69/NMM/tree/main/scripted-actions/windows-script/Install_language_Packs.ps1
 $>
 
 # Customize the following variables
