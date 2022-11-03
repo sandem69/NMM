@@ -1,3 +1,6 @@
+#description: This Script will use the new cmdlets for installing and configuring language packs.
+#execution mode: IndividualWithRestart
+#tags: LanguagePacks, AVD, Windows 365
 <#
 .SYNOPSIS
 Script to install and configure Language Packs via Install-Language
